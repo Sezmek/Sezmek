@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [My github profile](My github profile)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1a_vwLckbgjhOSIjyVa3AtU8pghb3rM5L3luaByFRPeg/edit?usp=drive_link](https://docs.google.com/document/d/1a_vwLckbgjhOSIjyVa3AtU8pghb3rM5L3luaByFRPeg/edit?usp=drive_link)
-
 - ⚡ Fun fact **hedgehogs are cute**
 
 <h3 align="left">Connect with me:</h3>
