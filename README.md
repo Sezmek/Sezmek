@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">I like hedgehogs, c# and Unity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezmek&label=Profile%20views&color=0e75b6&style=flat" alt="sezmek" /> </p>
-
 - 🔭 I’m currently working on **My skills**
 
 - 🌱 I’m currently learning **C#, Unity**
