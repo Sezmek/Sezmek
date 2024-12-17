@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [My github profile](My github profile)
 
+- <a href="https://sezame.itch.io">My itch account</a>
+
 - ⚡ Fun fact **hedgehogs are cute**
 
 <h3 align="left">Connect with me:</h3>
